@@ -1,2 +1,2 @@
 # Algorithms
-🎓 Different algorithms implemented in Pythom
+🎓 Different algorithms implemented in Python
